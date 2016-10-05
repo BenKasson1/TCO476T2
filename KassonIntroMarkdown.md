@@ -1,7 +1,7 @@
 ---
 Layout: page
 title: Tutorial
-permalink: Eggs
+permalink: /Eggs/
 ---
 
 **Instructions for Preparing Scrambled Eggs**
