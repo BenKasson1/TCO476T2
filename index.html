@@ -6,18 +6,17 @@ layout: default
   <img src="http://www.tampabay.com/resources/images/dti/rendered/2014/11/0432416363_14269809_8col.jpg" alt="Its the chef!" style="width:404px;height:328px;">
   <h1 class="page-heading"> This is my rough draft of the site. Click the site plan to see into the future!</h1>
   
-  <h2 class="page-heading">
-     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
+  <h2 class="page-heading">Page<   
+    /h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h3
+        
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h3>
+        
       </li>
     {% endfor %}
   </ul>
