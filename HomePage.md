@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ben’s Breakfast Bonanza!
-hyperlink: /BBB/
+title: FAQ
+hyperlink: /FAQ/
 ---
 
 **What makes good breakfast food?**
@@ -11,3 +11,4 @@ hyperlink: /BBB/
 **Lets find out!**
 
 Frequently Asked Questions
+... tbd
