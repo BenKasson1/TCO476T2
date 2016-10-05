@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Try Post Format
-date:2016-10-5 11:43:44
+title: "Try Post Format"
+date: 2016-10-5 11:43:44 +0000
 ---
 
 **Instruction Sets for a Ben Kasson Breakfast!**
