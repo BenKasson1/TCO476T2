@@ -1,10 +1,8 @@
-\---
-
+---
 layout: home
 
 title: Ben’s Breakfast Bonanza!
-
-\---
+---
 
 \*\*What makes good breakfast food?\*\*
 
