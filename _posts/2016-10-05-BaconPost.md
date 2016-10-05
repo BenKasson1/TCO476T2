@@ -5,7 +5,7 @@ date: 2016-10-05 13:28:33
 hyperlink: /Bacon/
 ---
 
-Batch o' Bacon
+**Batch o' Bacon**
 
 ![](http://stroupefarms.com/wp-content/uploads/2014/03/Bacon-peppered.jpg)
 
