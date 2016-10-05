@@ -2,6 +2,7 @@
 layout: post
 title: "Batch o' Bacon"
 date: 2016-10-05 13:28:33
+hyperlink: /Bacon/
 ---
 
 Batch o' Bacon
