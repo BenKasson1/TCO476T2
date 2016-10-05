@@ -9,11 +9,11 @@ hyperlink: /Bacon/
 
 ![](http://stroupefarms.com/wp-content/uploads/2014/03/Bacon-peppered.jpg)
 
-1. Gather ingredients
+1) Gather ingredients
 
 Aluminum foil, oven pan, package of bacon, brown sugar, pepper.
 
-2. Prepare oven
+2) Prepare oven
 
 Preheat to 400\* F.
 
