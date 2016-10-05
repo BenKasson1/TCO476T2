@@ -1,3 +1,9 @@
+---
+Layout: page
+title: Site Plan
+permalink: Plan
+---
+
 **Instructions for Preparing Scrambled Eggs**
 
 1.  Gather eggs, salt, pepper, a little butter, frying pan, spoon/spatula and a
