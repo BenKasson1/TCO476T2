@@ -1,3 +1,9 @@
+---
+Layout: page
+title: Site Plan
+permalink: /Plan/
+---
+
 **Instruction Sets for a Ben Kasson Breakfast!**
 ------------------------------------------------
 
