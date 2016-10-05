@@ -1,6 +1,6 @@
 ---
-Layout: post
-title: Scrambled Eggs
+Layout: page
+title: Tutorial
 permalink: Eggs
 ---
 
