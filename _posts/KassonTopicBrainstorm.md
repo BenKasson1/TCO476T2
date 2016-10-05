@@ -1,3 +1,9 @@
+---
+layout: post
+Title: Try Post Format
+date:2016-10-5 11:43:44
+---
+
 **Instruction Sets for a Ben Kasson Breakfast!**
 ------------------------------------------------
 
