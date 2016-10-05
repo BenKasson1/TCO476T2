@@ -18,7 +18,7 @@ title: Ben's Breakfast Bonanza
 email: yourfake-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  This site will serve to tutor the brave and willing in the fine arts of culinary mastery. Those looking for great flavor and fine taste, venture forth into the pages of my cooking experiences
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /TCO476T2 # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: BenKasson
 github_username:  BenKasson1
