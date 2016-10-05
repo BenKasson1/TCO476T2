@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Try Post Format
+title: Try Post Format
 date:2016-10-5 11:43:44
 ---
 
