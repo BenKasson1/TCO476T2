@@ -1,7 +1,7 @@
 ---
-Layout: page
-title: Site Plan
-permalink: Plan
+Layout: post
+title: Scrambled Eggs
+permalink: Eggs
 ---
 
 **Instructions for Preparing Scrambled Eggs**
