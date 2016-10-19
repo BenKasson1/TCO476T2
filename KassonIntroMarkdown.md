@@ -24,3 +24,5 @@ permalink: /Eggs/
 
 
 For more instructions click [here](https://www.youtube.com/watch?v=PUP7U5vTMM0).
+
+[![Link to Youtube](http://img.youtube.com/vi/youtube.com/watch?v=PUP7U5vTMM0/0.jpg)](http://www.youtube.com/watch?v=PUP7U5vTMM0)
